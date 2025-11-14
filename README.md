@@ -15,7 +15,7 @@ Es útil para calcular distribuciones de potencial electroestático en regiones 
 ## Instalación
 
 ```bash
-pip install campo_estatico_mdf
+pip install campo-estatico-mdf-maria
 ```
 
 ## Uso Básico
