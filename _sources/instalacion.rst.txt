@@ -11,7 +11,7 @@ Si el paquete ha sido publicado en PyPI o TestPyPI, simplemente ejecute:
 
 .. code-block:: bash
 
-   pip install campo_estatico_mdf
+   pip install campo-estatico-mdf-maria==0.1.1
 
 Instalación desde el repositorio local
 --------------------------------------
