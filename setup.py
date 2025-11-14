@@ -9,12 +9,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="campo_estatico_mdf",
     version="0.1.0",
-    author="Tu Nombre",
-    author_email="tu_email@example.com",
+    author="Maria Moreno , Juan Sebastian Sanchez",
+    author_email="maamorenor@udistrital.edu.co",
     description="Solución de la ecuación de Laplace en 2D usando el Método de Diferencias Finitas",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tu_usuario/campo_estatico_mdf",
+    url="https://almarm-r.github.io/campo_estatico_mdf/",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
