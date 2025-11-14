@@ -7,14 +7,24 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
+<<<<<<< HEAD
     name="campo_estatico_mdf_maria",
     version="0.1.1",
     author="Maria Moreno , Sebastian Sanchez",
+=======
+    name="campo_estatico_mdf",
+    version="0.1.0",
+    author="Maria Moreno , Juan Sebastian Sanchez",
+>>>>>>> 53c48484300a71811f71735b6bfa15dd07535706
     author_email="maamorenor@udistrital.edu.co",
     description="Solución de la ecuación de Laplace en 2D usando el Método de Diferencias Finitas",
     long_description=long_description,
     long_description_content_type="text/markdown",
+<<<<<<< HEAD
     url="https://almarm-r.github.io/campo_estatico_mdf/introduccion.html",
+=======
+    url="https://almarm-r.github.io/campo_estatico_mdf/",
+>>>>>>> 53c48484300a71811f71735b6bfa15dd07535706
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
